@@ -15,7 +15,7 @@ This is a web application, so you can access it through the link below.
 Link to Live Application: https://jonscon.github.io/Tetris-Memory-Game/
 
 ## Project Demo
-This demo shows the basic functionalities of the website. See the live demo here: 
+This demo shows the basic functionalities of the website. See the live demo here: https://youtu.be/k16Im0CK3tI
 
 ## Credits
 Jonathan Cheng
